@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sehansi Perera</h1>
 <h3 align="center">Computer Science Undergrad</h3>
 
-- 🌱 I’m currently learning **Java, ReactJS**
+- 🌱 I’m currently learning **Java, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
