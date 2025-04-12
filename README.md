@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sehansi Perera</h1>
 <h3 align="center">Computer Science Undergrad</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sehansi-9&label=Profile%20views&color=0e75b6&style=plastic" alt="sehansi-9" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehansi-9" alt="sehansi-9" /></a> </p>
 
 - 🌱 I’m currently learning **Java and React**
