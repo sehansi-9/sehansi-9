@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sehansi-9&label=Profile%20views&color=0e75b6&style=plastic" alt="sehansi-9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sehansi-9" alt="sehansi-9" /></a> </p>
-
 - 🌱 I’m currently learning **Java and React**
 
 - 📫 How to reach me **sehansi.wsmp9@gmail.com**
@@ -22,6 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sehansi-9&show_icons=true&locale=en&layout=compact" alt="sehansi-9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehansi-9&show_icons=true&locale=en" alt="sehansi-9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehansi-9&" alt="sehansi-9" /></p>
